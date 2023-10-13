@@ -1,0 +1,261 @@
+﻿  AuthPipe.cpp
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\LanServer\LanPacket.h(125,13): warning C4244: '초기화 중': '__int64'에서 'WORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\GameEchoServer\AuthPipe.h(17,25): warning C4150: 불완전한 형식 'server_baby::AuthPipe_SC_Proxy'에 대한 포인터를 삭제했습니다. 소멸자가 호출되지 않습니다.
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\GameEchoServer\AuthPipe.h(10,8): message : 'server_baby::AuthPipe_SC_Proxy' 선언을 참조하십시오.
+  EchoPipe.cpp
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\LanServer\LanPacket.h(125,13): warning C4244: '초기화 중': '__int64'에서 'WORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\GameEchoServer\EchoPipe.h(16,25): warning C4150: 불완전한 형식 'server_baby::EchoPipe_SC_Proxy'에 대한 포인터를 삭제했습니다. 소멸자가 호출되지 않습니다.
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\GameEchoServer\EchoPipe.h(10,8): message : 'server_baby::EchoPipe_SC_Proxy' 선언을 참조하십시오.
+  GameEchoServer.cpp
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\LanServer\LanPacket.h(125,13): warning C4244: '초기화 중': '__int64'에서 'WORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\GameEchoServer\AuthPipe.h(17,25): warning C4150: 불완전한 형식 'server_baby::AuthPipe_SC_Proxy'에 대한 포인터를 삭제했습니다. 소멸자가 호출되지 않습니다.
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\GameEchoServer\AuthPipe.h(10,8): message : 'server_baby::AuthPipe_SC_Proxy' 선언을 참조하십시오.
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\GameEchoServer\EchoPipe.h(16,25): warning C4150: 불완전한 형식 'server_baby::EchoPipe_SC_Proxy'에 대한 포인터를 삭제했습니다. 소멸자가 호출되지 않습니다.
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\GameEchoServer\EchoPipe.h(10,8): message : 'server_baby::EchoPipe_SC_Proxy' 선언을 참조하십시오.
+  MyGameEchoServer.cpp
+  Crash.cpp
+  DBConnector.cpp
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\Common\DBConnector.h(14,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
+  Parser.cpp
+  PDHMonitor.cpp
+  Profiler.cpp
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\Common\Profiler.cpp(31,1): warning C4267: '인수': 'size_t'에서 'const _Kty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Kty=int
+          ]
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\Common\Profiler.cpp(80,84): warning C4244: '인수': 'unsigned __int64'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\Common\Profiler.cpp(124,84): warning C4244: '인수': 'unsigned __int64'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\Common\Profiler.cpp(138,29): warning C4244: '인수': 'unsigned __int64'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\Common\Profiler.cpp(149,96): warning C4244: '인수': 'unsigned __int64'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\Common\Profiler.cpp(309,21): warning C4475: 'fwprintf' : 길이 한정자 'll'은(는) 서식 지정자에서 형식 필드 문자 'f'과(와) 함께 사용할 수 없습니다.
+  RingBuffer.cpp
+  SizedMemoryPool.cpp
+  SystemLogger.cpp
+  LanClient.cpp
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\LanServer\LanPacket.h(125,13): warning C4244: '초기화 중': '__int64'에서 'WORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\LanClient\LanClient.cpp(87,86): warning C4244: '인수': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\LanClient\LanClient.cpp(219,80): warning C4244: '인수': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  LanLargePacket.cpp
+  LanPacket.cpp
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\LanServer\LanPacket.h(125,13): warning C4244: '초기화 중': '__int64'에서 'WORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  LanPacketSet.cpp
+  LanPipe.cpp
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\LanServer\LanPacket.h(125,13): warning C4244: '초기화 중': '__int64'에서 'WORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\type_traits(1572,67): warning C4244: '인수': '_Ty'에서 'ULONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=INT64
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\functional(665,1): message : 컴파일되는 함수 템플릿 인스턴스화 'void std::invoke<_Callable&,_Ty,server_baby::LanUser*>(server_baby::LanPipe::UpdateProc::<lambda_1>&,_Ty1 &&,server_baby::LanUser *&&) noexcept(false)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Callable=server_baby::LanPipe::UpdateProc::<lambda_1>,
+              _Ty=INT64,
+              _Ty1=INT64
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\functional(832,1): message : 컴파일되는 함수 템플릿 인스턴스화 '_Rx std::_Invoker_ret<_Rx>::_Call<_Callable&,_Ty,server_baby::LanUser*>(_Fx,_Ty &&,server_baby::LanUser *&&) noexcept(false)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Rx=void,
+              _Callable=server_baby::LanPipe::UpdateProc::<lambda_1>,
+              _Ty=INT64,
+              _Fx=server_baby::LanPipe::UpdateProc::<lambda_1> &
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\functional(833,9): message : 컴파일되는 함수 템플릿 인스턴스화 '_Rx std::_Invoker_ret<_Rx>::_Call<_Callable&,_Ty,server_baby::LanUser*>(_Fx,_Ty &&,server_baby::LanUser *&&) noexcept(false)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Rx=void,
+              _Callable=server_baby::LanPipe::UpdateProc::<lambda_1>,
+              _Ty=INT64,
+              _Fx=server_baby::LanPipe::UpdateProc::<lambda_1> &
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\functional(832,1): message : 클래스 템플릿 멤버 함수 '_Rx std::_Func_impl_no_alloc<server_baby::LanPipe::UpdateProc::<lambda_1>,_Rx,DATA,Value>::_Do_call(DATA &&,Value &&)'을(를) 컴파일하는 중입니다.
+          with
+          [
+              _Rx=void,
+              DATA=INT64,
+              Value=server_baby::LanUser *
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\functional(730,13): message : 컴파일되는 클래스 템플릿 인스턴스화 'std::_Func_impl_no_alloc<server_baby::LanPipe::UpdateProc::<lambda_1>,_Ret,DATA,Value>'에 대한 참조를 확인하세요.
+          with
+          [
+              _Ret=void,
+              DATA=INT64,
+              Value=server_baby::LanUser *
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\functional(916,23): message : 컴파일되는 변수 템플릿 'const bool _Is_large<std::_Func_impl_no_alloc<`server_baby::LanPipe::UpdateProc'::`2'::<lambda_1>,void,__int64,server_baby::LanUser *> >'에 대한 참조를 확인하세요.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\functional(1043,1): message : 컴파일되는 함수 템플릿 인스턴스화 'void std::_Func_class<_Ret,DATA,Value>::_Reset<_Ty>(_Fx &&)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Ret=void,
+              DATA=INT64,
+              Value=server_baby::LanUser *,
+              _Ty=server_baby::LanPipe::UpdateProc::<lambda_1>,
+              _Fx=server_baby::LanPipe::UpdateProc::<lambda_1>
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\functional(1043,21): message : 컴파일되는 함수 템플릿 인스턴스화 'void std::_Func_class<_Ret,DATA,Value>::_Reset<_Ty>(_Fx &&)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Ret=void,
+              DATA=INT64,
+              Value=server_baby::LanUser *,
+              _Ty=server_baby::LanPipe::UpdateProc::<lambda_1>,
+              _Fx=server_baby::LanPipe::UpdateProc::<lambda_1>
+          ]
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\LanServer\LanPipe.cpp(217,10): message : 컴파일되는 함수 템플릿 인스턴스화 'std::function<void (DATA,Value)>::function<server_baby::LanPipe::UpdateProc::<lambda_1>,0>(_Fx &&)'에 대한 참조를 확인하세요.
+          with
+          [
+              DATA=INT64,
+              Value=server_baby::LanUser *,
+              _Fx=server_baby::LanPipe::UpdateProc::<lambda_1>
+          ]
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\LanServer\LanPipe.cpp(215,21): message : 컴파일되는 함수 템플릿 인스턴스화 'std::function<void (DATA,Value)>::function<server_baby::LanPipe::UpdateProc::<lambda_1>,0>(_Fx &&)'에 대한 참조를 확인하세요.
+          with
+          [
+              DATA=INT64,
+              Value=server_baby::LanUser *,
+              _Fx=server_baby::LanPipe::UpdateProc::<lambda_1>
+          ]
+  LanServer.cpp
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\LanServer\LanPacket.h(125,13): warning C4244: '초기화 중': '__int64'에서 'WORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  LanSession.cpp
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\LanServer\LanPacket.h(125,13): warning C4244: '초기화 중': '__int64'에서 'WORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  LanSessionArray.cpp
+  코드를 생성하고 있습니다...
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\Common\Profiler.cpp(33): warning C4715: 'server_baby::hash_str::operator()': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  컴파일하고 있습니다...
+  LanSessionID.cpp
+  NetClient.cpp
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\NetClient\NetClient.cpp(89,80): warning C4244: '인수': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\NetClient\NetClient.cpp(169,86): warning C4244: '인수': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  NetLargePacket.cpp
+  NetPacket.cpp
+  NetPacketSet.cpp
+  NetPipe.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\type_traits(1572,67): warning C4244: '인수': '_Ty'에서 'ULONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=INT64
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\functional(665,1): message : 컴파일되는 함수 템플릿 인스턴스화 'void std::invoke<_Callable&,_Ty,server_baby::NetUser*>(server_baby::NetPipe::UpdateProc::<lambda_1>&,_Ty1 &&,server_baby::NetUser *&&) noexcept(false)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Callable=server_baby::NetPipe::UpdateProc::<lambda_1>,
+              _Ty=INT64,
+              _Ty1=INT64
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\functional(832,1): message : 컴파일되는 함수 템플릿 인스턴스화 '_Rx std::_Invoker_ret<_Rx>::_Call<_Callable&,_Ty,server_baby::NetUser*>(_Fx,_Ty &&,server_baby::NetUser *&&) noexcept(false)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Rx=void,
+              _Callable=server_baby::NetPipe::UpdateProc::<lambda_1>,
+              _Ty=INT64,
+              _Fx=server_baby::NetPipe::UpdateProc::<lambda_1> &
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\functional(833,9): message : 컴파일되는 함수 템플릿 인스턴스화 '_Rx std::_Invoker_ret<_Rx>::_Call<_Callable&,_Ty,server_baby::NetUser*>(_Fx,_Ty &&,server_baby::NetUser *&&) noexcept(false)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Rx=void,
+              _Callable=server_baby::NetPipe::UpdateProc::<lambda_1>,
+              _Ty=INT64,
+              _Fx=server_baby::NetPipe::UpdateProc::<lambda_1> &
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\functional(832,1): message : 클래스 템플릿 멤버 함수 '_Rx std::_Func_impl_no_alloc<server_baby::NetPipe::UpdateProc::<lambda_1>,_Rx,DATA,Value>::_Do_call(DATA &&,Value &&)'을(를) 컴파일하는 중입니다.
+          with
+          [
+              _Rx=void,
+              DATA=INT64,
+              Value=server_baby::NetUser *
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\functional(730,13): message : 컴파일되는 클래스 템플릿 인스턴스화 'std::_Func_impl_no_alloc<server_baby::NetPipe::UpdateProc::<lambda_1>,_Ret,DATA,Value>'에 대한 참조를 확인하세요.
+          with
+          [
+              _Ret=void,
+              DATA=INT64,
+              Value=server_baby::NetUser *
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\functional(916,23): message : 컴파일되는 변수 템플릿 'const bool _Is_large<std::_Func_impl_no_alloc<`server_baby::NetPipe::UpdateProc'::`2'::<lambda_1>,void,__int64,server_baby::NetUser *> >'에 대한 참조를 확인하세요.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\functional(1043,1): message : 컴파일되는 함수 템플릿 인스턴스화 'void std::_Func_class<_Ret,DATA,Value>::_Reset<_Ty>(_Fx &&)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Ret=void,
+              DATA=INT64,
+              Value=server_baby::NetUser *,
+              _Ty=server_baby::NetPipe::UpdateProc::<lambda_1>,
+              _Fx=server_baby::NetPipe::UpdateProc::<lambda_1>
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\functional(1043,21): message : 컴파일되는 함수 템플릿 인스턴스화 'void std::_Func_class<_Ret,DATA,Value>::_Reset<_Ty>(_Fx &&)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Ret=void,
+              DATA=INT64,
+              Value=server_baby::NetUser *,
+              _Ty=server_baby::NetPipe::UpdateProc::<lambda_1>,
+              _Fx=server_baby::NetPipe::UpdateProc::<lambda_1>
+          ]
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\NetServer\NetPipe.cpp(204,10): message : 컴파일되는 함수 템플릿 인스턴스화 'std::function<void (DATA,Value)>::function<server_baby::NetPipe::UpdateProc::<lambda_1>,0>(_Fx &&)'에 대한 참조를 확인하세요.
+          with
+          [
+              DATA=INT64,
+              Value=server_baby::NetUser *,
+              _Fx=server_baby::NetPipe::UpdateProc::<lambda_1>
+          ]
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\NetServer\NetPipe.cpp(202,21): message : 컴파일되는 함수 템플릿 인스턴스화 'std::function<void (DATA,Value)>::function<server_baby::NetPipe::UpdateProc::<lambda_1>,0>(_Fx &&)'에 대한 참조를 확인하세요.
+          with
+          [
+              DATA=INT64,
+              Value=server_baby::NetUser *,
+              _Fx=server_baby::NetPipe::UpdateProc::<lambda_1>
+          ]
+  NetServer.cpp
+  NetSession.cpp
+  NetSessionArray.cpp
+  NetSessionID.cpp
+  NetSelectServer.cpp
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\SelectServer\SelectSession.h(11,10): error C3646: '_sock': 알 수 없는 재정의 지정자입니다.
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\SelectServer\SelectSession.h(11,15): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\SelectServer\SelectSession.h(12,15): error C3646: '_address': 알 수 없는 재정의 지정자입니다.
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\SelectServer\SelectSession.h(12,23): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\SelectServer\SelectSession.h(31,27): error C2061: 구문 오류: 식별자 'SOCKET'
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\SelectServer\SelectSession.h(39,27): error C2061: 구문 오류: 식별자 'SOCKET'
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\SelectServer\SelectSession.h(39,3): error C2535: 'server_baby::SelectSession::SelectSession(DWORD)': 멤버 함수를 이미 정의했거나 선언했습니다.
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\SelectServer\SelectSession.h(31,3): message : 'server_baby::SelectSession::SelectSession' 선언을 참조하십시오.
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\SelectServer\SelectSession.h(26,4): error C2065: '_sock': 선언되지 않은 식별자입니다.
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\SelectServer\SelectSession.h(33,4): error C2065: '_sock': 선언되지 않은 식별자입니다.
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\SelectServer\SelectSession.h(33,12): error C2065: 'sock': 선언되지 않은 식별자입니다.
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\SelectServer\SelectSession.h(34,4): error C2065: '_address': 선언되지 않은 식별자입니다.
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\SelectServer\SelectSession.h(34,15): error C2065: 'addr': 선언되지 않은 식별자입니다.
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\SelectServer\SelectSession.h(41,4): error C2065: '_sock': 선언되지 않은 식별자입니다.
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\SelectServer\SelectSession.h(41,12): error C2065: 'sock': 선언되지 않은 식별자입니다.
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\SelectServer\SelectSession.h(42,4): error C2065: '_address': 선언되지 않은 식별자입니다.
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\SelectServer\SelectSession.h(42,15): error C2065: 'addr': 선언되지 않은 식별자입니다.
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\SelectServer\SelectSession.h(44,20): error C2065: 'currentTime': 선언되지 않은 식별자입니다.
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\SelectServer\NetSelectServer.h(73,25): error C2061: 구문 오류: 식별자 'NetPacketSet'
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\SelectServer\NetSelectServer.h(80,59): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\SelectServer\NetSelectServer.h(80,59): error C2143: 구문 오류: ','이(가) '*' 앞에 없습니다.
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\SelectServer\NetSelectServer.h(81,54): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\SelectServer\NetSelectServer.h(81,54): error C2146: 구문 오류: ')'이(가) 'NetSessionID' 식별자 앞에 없습니다.
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\SelectServer\NetSelectServer.h(81,54): error C3646: 'NetSessionID': 알 수 없는 재정의 지정자입니다.
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\SelectServer\NetSelectServer.h(81,66): error C2059: 구문 오류: ')'
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\SelectServer\NetSelectServer.h(82,55): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\SelectServer\NetSelectServer.h(82,55): error C2146: 구문 오류: ')'이(가) 'NetSessionID' 식별자 앞에 없습니다.
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\SelectServer\NetSelectServer.h(82,55): error C3646: 'NetSessionID': 알 수 없는 재정의 지정자입니다.
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\SelectServer\NetSelectServer.h(82,67): error C2059: 구문 오류: ')'
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\SelectServer\NetSelectServer.h(83,29): error C2061: 구문 오류: 식별자 'NetPacketSet'
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\SelectServer\NetSelectServer.h(84,48): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\SelectServer\NetSelectServer.h(84,48): error C2146: 구문 오류: ')'이(가) 'NetSessionID' 식별자 앞에 없습니다.
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\SelectServer\NetSelectServer.h(84,48): error C3646: 'NetSessionID': 알 수 없는 재정의 지정자입니다.
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\SelectServer\NetSelectServer.h(84,68): error C2062: 예기치 않은 'int' 형식입니다.
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\SelectServer\NetSelectServer.h(84,82): error C2059: 구문 오류: '='
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\SelectServer\NetSelectServer.h(84,85): error C2238: ';' 앞에 예기치 않은 토큰이 있습니다.
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\SelectServer\NetSelectServer.h(89,51): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\SelectServer\NetSelectServer.h(89,51): error C2146: 구문 오류: ')'이(가) 'sessionID' 식별자 앞에 없습니다.
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\SelectServer\NetSelectServer.h(89,51): error C3646: 'sessionID': 알 수 없는 재정의 지정자입니다.
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\SelectServer\NetSelectServer.h(89,60): error C2059: 구문 오류: ')'
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\SelectServer\NetSelectServer.h(83,74): error C2065: 'packetList': 선언되지 않은 식별자입니다.
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\SelectServer\NetSelectServer.h(83,102): error C2065: 'packetList': 선언되지 않은 식별자입니다.
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\SelectServer\NetSelectServer.h(83,63): error C3861: 'EnqueueJob': 식별자를 찾을 수 없습니다.
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\SelectServer\NetSelectServer.h(89,75): error C2065: 'sessionID': 선언되지 않은 식별자입니다.
+C:\Users\gintokiluv\Desktop\DevRepos\PortfolioProject\MyGameEchoServer\NetRoot\SelectServer\NetSelectServer.h(89,64): error C3861: 'Disconnect': 식별자를 찾을 수 없습니다.
+  코드를 생성하고 있습니다...
